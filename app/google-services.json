@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079846039940",
+    "project_id": "evaluacion-8c94c",
+    "storage_bucket": "evaluacion-8c94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079846039940:android:86cf66f731754445cbedd1",
+        "android_client_info": {
+          "package_name": "com.example.appnevera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079846039940-gum7cn3ga0dogbkhg3s5hsmnqf93g6d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdEYOnPevlwSVZJN0YhZCdBWw2pKfYF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079846039940-gum7cn3ga0dogbkhg3s5hsmnqf93g6d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
